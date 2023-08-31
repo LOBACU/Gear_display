@@ -23,3 +23,5 @@ List of materials:
 
 -220 ohm resistors
 
+Schematic
+[gear display.pdf](https://github.com/LOBACU/Gear_display/files/12486220/gear.display.pdf)
