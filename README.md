@@ -25,6 +25,8 @@ List of materials:
 
 -220 ohm resistors
 
+The resistor between +5V and the signal output acts as a pull-up resistor. When the sensor is not actively pulling the signal line low (i.e., detecting a magnetic field), the resistor pulls the signal line high to +5V. This prevents the signal line from floating, which could lead to unstable or undefined states.
+
 
 The displayed numbers
 
