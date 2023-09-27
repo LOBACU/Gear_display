@@ -30,6 +30,6 @@ The resistor between +5V and the signal output acts as a pull-up resistor. When 
 
 The displayed numbers
 
-![display1](https://github.com/LOBACU/Gear_display/assets/143682416/d20e3314-1f30-4a47-8003-6e5844f9b9ed)
+![display1](https://github.com/LOBACU/Gear_display/assets/143682416/4ad8c5c1-6071-4aa4-ab8c-cba0fbcb8148)
 
 
