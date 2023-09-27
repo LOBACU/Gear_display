@@ -2,7 +2,7 @@
 Code and schematics to produce easy and cheap gear display for manual transmission using arduino nano and A3144 hall effect sensors.
 
 Firstly there will be an DYI version, but later on trying to produce bolt on kits.
-  
+Later on different kind of "gear sensing" is used.  
 
 First bolt on kits are made for:
 
